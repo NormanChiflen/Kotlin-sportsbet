@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sportsbet</string>
+    <string name="api_key">57c5f130ab192fc55c2204023806d8dc</string>
+    <string name="get_sports">https://api.the-odds-api.com/v4/sports/soccer_epl/odds/</string>
+</resources>

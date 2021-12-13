@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64529882228",
+    "project_id": "sportsbet-ef715",
+    "storage_bucket": "sportsbet-ef715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64529882228:android:aab0eb6af42e663eb74521",
+        "android_client_info": {
+          "package_name": "com.example.sportsbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64529882228-7dhvj0pask2r49nc8megeh397dd35agc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzxytVW000Ag6Y5VKPIKC8GxlNOh4U7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64529882228-7dhvj0pask2r49nc8megeh397dd35agc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
