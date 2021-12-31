@@ -1,4 +1,4 @@
-# sports-bet
+# sports-bet app
 
 
 # application requires an internet connection
@@ -10,4 +10,5 @@
 #you can select the odds you want to chose and remove them
 
 #application calculates the total matches and the total odds
+
 
